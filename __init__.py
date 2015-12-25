@@ -14,7 +14,14 @@
 #  along with this program; if not, write to the Free Software Foundation,
 #  Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.
 #
+#  Additional:
+#  -  large parts of this code is licensed FFA (Free for All),
+#  -  The original code can be found at https://github.com/JuhaW/NodeArrange
+#  -  My changes are entirely GPL3.
+#
 # ##### END GPL LICENSE BLOCK #####
+
+
 
 bl_info = {
     "name": "node arrange",
